@@ -1,0 +1,9 @@
+onnx
+onnxruntime
+onnxscript
+numpy
+pandas
+torch 
+torchvision 
+torchaudio
+scikit-learn
