@@ -1,6 +1,12 @@
-<img src="https://github.com/ocskiurity/initiator/assets/14362976/9e54e627-720e-4030-8d1d-d8a99ae77706.png" width="200" align="right"/>
-
-# INITIATOR
+<p align="center">
+    <picture>
+        <source srcset="https://github.com/ocskiurity/initiator/assets/14362976/91bebf98-fbe0-4a88-bf49-f6a023086e5e">
+        <img width="250" alt="logo"
+            src="https://github.com/ocskiurity/initiator/assets/14362976/91bebf98-fbe0-4a88-bf49-f6a023086e5e">
+    </picture>
+<h1 align="center">
+    🗡️ initiator 🗡️
+</h1>
 
 A collection of utilities to train and quantize 1-layer MLP weights and input data.
 
